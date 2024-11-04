@@ -17,7 +17,7 @@ SchedulingDesktopApp is a Windows desktop application designed to manage appoint
 
 ## Requirements
 - C#
-- Windwos Forms
+- Windows Forms
 - .NET Framework
 - MySQL Database
 
